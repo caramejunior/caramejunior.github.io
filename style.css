@@ -1,0 +1,20 @@
+#description {
+   font-family: sans-serif;
+}
+
+.body {
+    background-color: bisque;
+    font-size: 20px;
+}
+
+.list-style {
+    font-weight: bold;
+    font-style: italic;
+    line-height: 40px;
+}
+.profile {
+    width: 300px;
+}
+
+
+
